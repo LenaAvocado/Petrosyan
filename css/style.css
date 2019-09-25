@@ -1,0 +1,13 @@
+.red-color {
+    color: red
+}
+.outer{
+    display: flex;
+    justify-content: center;
+}
+.inner{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 450px;
+    padding: 30px;
+}
